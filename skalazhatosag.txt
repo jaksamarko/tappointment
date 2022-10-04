@@ -1,0 +1,3 @@
+Mivel több szerverről lehet szó, egyrészt adattárolás szempontjából szükséges lehet valamilyen osztott megoldás,
+kivéve ha adott felhasználókat mindig ugyanarra a szerverrel szolgáljuk ki (a jelenlegi elvárásokkal ez nem gond, később gond lenne),
+ilyen alapon egyszerű horizontális skálázásról beszélünk és szükség lenne egy balanszerre ami teljesíti a felhasználó-adott-szerver feltételt.
